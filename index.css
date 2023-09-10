@@ -14,10 +14,10 @@ font-size: 50px;
 }
 body{
     
+background-image: url("b.png");
 background-size: contain;
 background-repeat: no-repeat;
 background-position: center top;
-background-color: #2B2B2B;
 height: 3590px;
 
 }
@@ -25,7 +25,16 @@ height: 3590px;
 
 height: 1330px;
 margin: 50px;
-padding: 50p;
+padding: 50px;
+
+}
+h2{
+
+color: #FFFFFF;
+font-family: "Microsoft YaHei";
+font-size: 51px;
+text-align: center;
+
 }
 b,.g,ul{
 
