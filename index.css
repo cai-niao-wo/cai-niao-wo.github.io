@@ -85,3 +85,44 @@ font-size: 84px;
 color: #000000;
 
 }
+input[type="text"] {
+             position: relative;
+
+             border: none;
+             background: rgba(255, 255, 255, 0.5);
+             transform: translate();
+             font-size: 73px;
+             color: #333;
+         }
+
+         input[type="submit"] {
+             position: relative;
+             border: none;
+             transform: translate();
+             background: rgba(255, 255, 255, 0.5);
+             color: #FFFFFF;
+             font-size: 73px;
+             cursor: pointer;
+
+         }
+         .xa{
+         
+         margin: 50px;
+         
+         }
+         .xb{
+         
+         margin: 50px;
+         padding: ;
+         height: 235px;
+         width: 235px;
+         background-color: #8A8A8A;
+         
+         
+         }
+         .xxa{
+         
+         color: #FFFFFF;
+         font-size: 200px;
+         
+         }
